@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://admin-reon:reon@cluster0-h9oh4.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "my jwtSecret secret token ",
+  "githubClientId": "a871e64d64a42ef5b1c3",
+  "githubSecret": "49766930d3debf31ad07f8f14206ab16001ab7be"
+}
